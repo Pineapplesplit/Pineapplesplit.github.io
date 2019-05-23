@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
+img{
+	width:1000px;
+}
 section img{
 	width:255px;
 	border-radius: 25px;
